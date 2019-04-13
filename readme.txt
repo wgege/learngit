@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 
 删掉了
 Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
